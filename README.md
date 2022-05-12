@@ -1,4 +1,4 @@
-# NET CAFÉ DATA MANAGEMENT
+# Net Cafe Data Management
  
  details of the project and project progres of Database Lab Project (IT3290E)
 
